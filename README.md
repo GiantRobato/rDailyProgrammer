@@ -1,5 +1,5 @@
 # rDailyProgrammer
-My Answers to the sub reddit [r/dailyProgrammer](http://www.reddit.com/r/dailyprogrammer/)
+My Answers to the sub reddit [r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer/)
 
 ##Questions by Difficulty
 
