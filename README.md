@@ -5,4 +5,7 @@ My Answers to the sub reddit [r/dailyprogrammer](http://www.reddit.com/r/dailypr
 
 ### EASY
 
+* [Challenge 202](http://www.reddit.com/r/dailyprogrammer/comments/2w84hl/20150216_challenge_202_easy_i_am_bender_please/) (description) Solutions(s): [Java](https://github.com/penguindustin/rDailyProgrammer/blob/master/Easy/Challenge202.java)
+
 * [Challenge 207](http://www.reddit.com/r/dailyprogrammer/comments/2zyipu/20150323_challenge_207_easy_bioinformatics_1_dna/) (description) Solution(s): [Java](https://github.com/penguindustin/rDailyProgrammer/blob/master/Easy/Challenge207.java)
+
