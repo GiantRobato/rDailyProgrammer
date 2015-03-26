@@ -1,6 +1,11 @@
 # rDailyProgrammer
 My Answers to the sub reddit [r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer/)
 
+#Questions solved to date
+## 2
+## Solutions by type:
+* 2 Solutions in Java
+
 ##Questions by Difficulty
 
 ### EASY
